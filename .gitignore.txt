@@ -1,4 +1,4 @@
-/secrets
+secrets
 passwords.txt
-private
-testing
+private.txt
+testing.txt
